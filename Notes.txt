@@ -1,0 +1,119 @@
+#All the materials used for glazes#
+
+EPK
+Flint
+Neph Sy
+Whiting
+Bentonite
+Calcined Kaolin
+CI FRITT 1101
+CI FRITT 1102
+CI FRITT 1103-3124
+CI FRITT 1104
+CI FRITT 1108=3110
+CI FRITT 1109
+CI FRITT 1303
+CI FRITT 1304
+FUSION FRITT 1510
+FUSION FRIT 413
+3124 (Frit)
+Gerstly Borate
+Minspar
+Mahavir
+Custer
+G200 EU
+Spodumene
+Talc (Amtaic)
+Mag Carbonate
+Dolomite
+Wollastonite
+Strontium Carb
+Barium Carb
+Zinc Oxide
+Lithium Carb
+Soda Ash
+Pearl Ash
+3110 (Frit)
+3124 (Frit)=CI 1110
+3195 (Frit)
+F-367 (Frit)
+F - 644
+3289 (Frit)
+Grolleg
+OM4
+Bone Ash
+Red Art
+Titanium Dioxide
+Rutile
+Light Rutile
+Illmenite
+VeeGum
+Ravensgrag Slip
+Alberta Slip
+Laguna Borate
+Red Iron Oxide
+yellow iron Oxide
+Black Iron Oxide
+Yellow Ochre
+Spanish RIO
+Iron Sulphate
+Manganese Dioxide
+Manganese Oxide
+Manganese Carb
+Chrome Oxide
+Cobalt Carbonate
+Cobalt Oxide
+Copper Carbonate
+Black Copper Oxide
+Red Copper Oxide
+Nickle Carbonate (Black)
+Nickle Oxide (Green)
+Tin Oxide
+Bismuth Subnitrate
+Zircopax
+Superpax
+Silicon Carbide
+F-12 (Frit)
+F-13 (Frit)
+F-18 (Frit)
+3269 (Frit)
+3249 (Frit)
+3221 (Frit)
+3185 (Frit)
+F-413 (Frit)
+F-620 (Frit)
+Wood Ash
+Iron Sulphate
+Alumina Oxide
+Alumina Hydrate
+Trisodium Phosphate
+Mullite
+Flurospar
+Cryolite
+Pyrax
+Yellow Banks 401
+Yellow Banks 101
+Gold Art
+Barnard
+Alfred Shale
+Albany Slip
+Hawthorn Bond
+Salt Lick
+Foundary Hill Creme
+XX Sagger
+Tenn #10
+C & C
+Gleason Ball
+NZ Halloysite
+Peerless
+Kaopaque
+Helmar
+Tile 6
+Fortispar
+Petalite
+Boric Acid
+Borax
+Calcium Borate
+Ferro CC-263
+Cadycal
+Gillespie Borate
