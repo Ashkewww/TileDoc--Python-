@@ -1,0 +1,14 @@
+{
+    "category1":{
+        "location":"category1/category1.json",
+        "remarks":"This is category1"
+    },
+    "category2":{
+        "location":"category2/category2.json",
+        "remarks":"This is category2"
+    },
+    "category3":{
+        "location":"category3/category3.json",
+        "remarks":"This is category3"
+    }
+}
